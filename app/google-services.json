@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "252137860249",
+    "firebase_url": "https://chat-37fb5.firebaseio.com",
+    "project_id": "chat-37fb5",
+    "storage_bucket": "chat-37fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252137860249:android:37f123229f955b2ed49c08",
+        "android_client_info": {
+          "package_name": "com.chairul.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252137860249-ble419soklbmfn5035hthhvqofh1dle3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chairul.chat",
+            "certificate_hash": "99b9bfdb306358ad0fe52beaaa84808e9ec0dd79"
+          }
+        },
+        {
+          "client_id": "252137860249-fmub8jo78ho0sjipsh74nj4ecmlj06fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaHIrlN3LogQhPZtbbOM7-XKsG1_kOj68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252137860249-fmub8jo78ho0sjipsh74nj4ecmlj06fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
